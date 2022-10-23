@@ -1,0 +1,8 @@
+django
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+djongo
+pymongo==3.12.3
+mongoengine
