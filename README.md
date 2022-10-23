@@ -5,5 +5,6 @@ Tech stack: Django, Python, ReactJS, HTML/CSS, MongoDB
 - Mapbox(JavaScript library) for real-world map of road network.
 - A* algorithm as the basis of the whole algorithm for efficiently finding optimal path.
 
-Uploading NavicMaps _ Optimal distance between two places.mp4…
+
+https://user-images.githubusercontent.com/55875294/197376505-ea8e26d3-cf7d-4856-9442-1516fd5a4dd7.mp4
 
