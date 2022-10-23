@@ -1,0 +1,154 @@
+{
+    "Director House": {
+        "latitude": 26.935335027186213,
+        "longitude": 75.92180927175333
+    },
+    "Academic Area": {
+        "latitude": 26.935987274761157,
+        "longitude": 75.92417252166099
+    },
+    "Incubation Center": {
+        "latitude": 26.936142476819235,
+        "longitude": 75.92550044675885
+    },
+    "TPO Office": {
+        "latitude": 26.934683471766718,
+        "longitude": 75.92194282241047
+    },
+    "Guest House": {
+        "latitude": 26.934683471766718,
+        "longitude": 75.92194282241047
+    },
+    "Library": {
+        "latitude": 26.93592732325279,
+        "longitude": 75.92309846205423
+    },
+    "Water Treatment Plant": {
+        "latitude": 26.934229625243514,
+        "longitude": 75.92433817110887
+    },
+    "Central Plaza": {
+        "latitude": 26.93624241867416,
+        "longitude": 75.92331925778153
+    },
+    "Great Wall": {
+        "latitude": 26.936996398063005,
+        "longitude": 75.92339949458781
+    },
+    "Open Air Theatre": {
+        "latitude": 26.9346398398346,
+        "longitude": 75.92384780819525
+    },
+    "Hill Top": {
+        "latitude": 26.937382818576502,
+        "longitude": 75.92299089646058
+    },
+    "Temple": {
+        "latitude": 26.933401887845218,
+        "longitude": 75.92318052176434
+    },
+    "Faculy Quarters Class A": {
+        "latitude": 26.933800565145887,
+        "longitude": 75.92179290155467
+    },
+    "Faculy Quarters Class C": {
+        "latitude": 26.933149642751548,
+        "longitude": 75.92196274525386
+    },
+    "Faculy Quarters Class D": {
+        "latitude": 26.93278409088039,
+        "longitude": 75.92174507138968
+    },
+    "Girls Hostel": {
+        "latitude": 26.935139749810006,
+        "longitude": 75.92261673670295
+    },
+    "Boys Hostel 1": {
+        "latitude": 26.93390728706548,
+        "longitude": 75.922671257094
+    },
+    "Boys Hostel 2": {
+        "latitude": 26.933896221960484,
+        "longitude": 75.92360611179103
+    },
+    "Boys Hostel 3": {
+        "latitude": 26.934680,
+        "longitude": 75.924821
+    },
+    "Boys Hostel 4": {
+        "latitude": 26.93151484931607,
+        "longitude": 75.92322393978726
+    },
+    "Mess A": {
+        "latitude": 26.934624079206298,
+        "longitude": 75.92276315281963
+    },
+    "Mess B": {
+        "latitude": 26.93504585760791,
+        "longitude": 75.92523138163659
+    },
+    "Mess C": {
+        "latitude": 26.93151484931607,
+        "longitude": 75.92322393978726
+    },
+    "Bazinga": {
+        "latitude": 26.934725429932584,
+        "longitude": 75.92338065280836
+    },
+    "Food Barn": {
+        "latitude": 26.934725429932584,
+        "longitude": 75.92338065280836
+    },
+    "Baba Juice": {
+        "latitude": 26.934725429932584,
+        "longitude": 75.92338065280836
+    },
+    "Vinayak": {
+        "latitude": 26.934725429932584,
+        "longitude": 75.92338065280836
+    },
+    "Amul Parlour": {
+        "latitude": 26.934725429932584,
+        "longitude": 75.92338065280836
+    },
+    "Children Play Area": {
+        "latitude": 26.934235,
+        "longitude": 75.921769
+    },
+    "Student Activity Center": {
+        "latitude": 26.933079302931837,
+        "longitude": 75.9231290043272
+    },
+    "BasketBall Court": {
+        "latitude": 26.933070,
+        "longitude": 75.922560
+    },
+    "VolleyBall Court": {
+        "latitude": 26.933070,
+        "longitude": 75.922560
+    },
+    "Tennis Court": {
+        "latitude": 26.933070,
+        "longitude": 75.922560
+    },
+    "Football Field": {
+        "latitude": 26.9300375533158,
+        "longitude": 75.92090603925939
+    },
+    "Cricket Field": {
+        "latitude": 26.9300375533158,
+        "longitude": 75.92090603925939
+    },
+    "Laundry": {
+        "latitude": 26.934725429932584,
+        "longitude": 75.92338065280836
+    },
+    "Saloon": {
+        "latitude": 26.934725429932584,
+        "longitude": 75.92338065280836
+    },
+    "Stationary Shop": {
+        "latitude": 26.934725429932584,
+        "longitude": 75.92338065280836
+    }
+}
